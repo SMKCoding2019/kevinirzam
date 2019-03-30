@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "451916187716",
+    "firebase_url": "https://kelupa-522a2.firebaseio.com",
+    "project_id": "kelupa-522a2",
+    "storage_bucket": "kelupa-522a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451916187716:android:945518d4b76bc04b",
+        "android_client_info": {
+          "package_name": "kevin.id.kelupa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451916187716-cj16oglbp4lddhjscm1qb290pqa5h34q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kevin.id.kelupa",
+            "certificate_hash": "32fa06344f43ad45d54db9a8e2e69a66d3973015"
+          }
+        },
+        {
+          "client_id": "451916187716-j9dkt08arlrlchcejqjev427441m131a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDQ42CrSv4jFG20D_Ge8vZBkZ5dwlMiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451916187716-j9dkt08arlrlchcejqjev427441m131a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
